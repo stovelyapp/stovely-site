@@ -1,7 +1,7 @@
-@font-face{font-family:"Gloock";font-weight:400;font-style:normal;font-display:swap;src:url(fonts/gloock-latin-400-normal.woff2) format("woff2")}
-@font-face{font-family:"Inter";font-weight:400;font-style:normal;font-display:swap;src:url(fonts/inter-latin-400-normal.woff2) format("woff2")}
-@font-face{font-family:"Inter";font-weight:600;font-style:normal;font-display:swap;src:url(fonts/inter-latin-600-normal.woff2) format("woff2")}
-@font-face{font-family:"Inter";font-weight:700;font-style:normal;font-display:swap;src:url(fonts/inter-latin-700-normal.woff2) format("woff2")}
+@font-face{font-family:"Gloock";font-weight:400;font-style:normal;font-display:swap;src:url(gloock-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:"Inter";font-weight:400;font-style:normal;font-display:swap;src:url(inter-latin-400-normal.woff2) format("woff2")}
+@font-face{font-family:"Inter";font-weight:600;font-style:normal;font-display:swap;src:url(inter-latin-600-normal.woff2) format("woff2")}
+@font-face{font-family:"Inter";font-weight:700;font-style:normal;font-display:swap;src:url(inter-latin-700-normal.woff2) format("woff2")}
 
 :root{
   --paper:#F6F7F1; --cream:#EBDDCC; --ink:#1E140F; --muted:#665545; --line:#DDD0BF;
