@@ -14,7 +14,7 @@
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:17px;line-height:1.6;-webkit-font-smoothing:antialiased}
-img{max-width:100%;display:block}
+img{max-width:100%;height:auto;display:block}
 a{color:var(--herb);text-underline-offset:3px}
 a:hover{color:var(--herb-dark)}
 :focus-visible{outline:3px solid var(--herb);outline-offset:3px;border-radius:6px}
